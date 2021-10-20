@@ -3,6 +3,7 @@
 namespace App\Database\Seeds;
 
 use App\Models\Pengguna;
+use App\Models\Pengguna_12200169;
 use CodeIgniter\Database\Seeder;
 
 class PenggunaSeeder extends Seeder
